@@ -3,6 +3,9 @@
 
     <string name="app_name">Trackpad</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="x_pos_tag">X Pos:</string>
+    <string name="y_pos_tag">Y Pos:</string>
+    <string name="x_pos_initial">0.0</string>
+    <string name="y_pos_initial">0.0</string>
 
 </resources>
